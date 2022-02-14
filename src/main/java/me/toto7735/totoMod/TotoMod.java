@@ -18,4 +18,5 @@ public class TotoMod implements ModInitializer {
 
 		LOGGER.info("Hello Fabric world!");
 	}
+
 }
